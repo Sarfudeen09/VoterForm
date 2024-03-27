@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/VoterForm/static/css/main.783364a9.css",
+    "main.js": "/VoterForm/static/js/main.9b922f53.js",
+    "static/js/453.3bbcf3ca.chunk.js": "/VoterForm/static/js/453.3bbcf3ca.chunk.js",
+    "static/media/3699921.jpg": "/VoterForm/static/media/3699921.d324dae75687759ead27.jpg",
+    "index.html": "/VoterForm/index.html",
+    "main.783364a9.css.map": "/VoterForm/static/css/main.783364a9.css.map",
+    "main.9b922f53.js.map": "/VoterForm/static/js/main.9b922f53.js.map",
+    "453.3bbcf3ca.chunk.js.map": "/VoterForm/static/js/453.3bbcf3ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.783364a9.css",
+    "static/js/main.9b922f53.js"
+  ]
+}
